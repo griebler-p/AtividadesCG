@@ -5,8 +5,8 @@
 // Tarefa: Desafio
 // Data: 17/05/2025
 // Professor: Rossana Baptista Queiroz
-// Alunos: Paulo Griebler Júnior e Rodrigo Pires
-// Registros Acadêmicos: 1930669 e 1917485
+// Alunos: Paulo Griebler Júnior
+// Registros Acadêmicos: 1930669
 
 // Versão Astrolabium:
 // Pasta: cd '/mnt/astrolabium/home/griebler/Rsync/Unisinos/Atividade_Academica/2025-1/Computação Gráfica/Github/AtividadesCG/Atividade_Vivencial_1'
